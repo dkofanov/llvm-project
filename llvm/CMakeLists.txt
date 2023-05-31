@@ -433,6 +433,7 @@ set(LLVM_ALL_TARGETS
   AVR
   BPF
   Hexagon
+  K3S
   Lanai
   LoongArch
   Mips
